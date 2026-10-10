@@ -180,9 +180,7 @@ else:
 #---------------------------
 #TEST DATA FOR LARGE SCALE
 #---------------------------
-# -------------------------------------------------
-# Q7 Performance Test for Larger Networks
-# -------------------------------------------------
+
 
 def generate_test_network(n):
     vertices = list(range(n))
